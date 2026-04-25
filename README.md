@@ -1,2 +1,5 @@
-# Smart-Ledger-Pro
-A professional financial ledger system for daily business transactions built with PHP and MySQL
+## Daybook App Showcase
+Here is how the application looks in action:
+
+![Log In Screenshot](screenshot1.jpg)
+![New Entry](screenshot2.jpg)
